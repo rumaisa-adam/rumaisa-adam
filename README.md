@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rumaisa 👋
 
-<!--
-**rumaisa-adam/rumaisa-adam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Systems student focused on building full-stack web applications, business systems, and automated workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Technologies
+- **Languages & Frameworks:** C#, ASP.NET Core MVC, JavaScript, HTML5, CSS3, Bootstrap
+- **Tools & Platforms:** Git & GitHub, Figma, Relational Databases / SQL
+- **Interests:** Systems Analysis, Web Development, UI/UX Prototyping, Process Automation
+
+---
+
+### 📌 What I'm Focused On
+- 🚀 Developing responsive, database-driven web applications
+- 📐 Designing intuitive user flows and wireframes in Figma
+- 🔍 Exploring modern cloud and low-code integration tools
+
+---
+
+### 📬 Connect With Me
+- **Email:** rumaisa.adam05@gmail.com
